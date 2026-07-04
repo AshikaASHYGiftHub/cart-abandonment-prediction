@@ -41,7 +41,7 @@ Access the raw dataset via:
 
 ## Methodology — CRISP-DM Pipeline
 
-`
+```
 Raw GA4 Event Data (300,000 records)
 ↓
 Session-Level Aggregation (29,178 sessions)
@@ -61,7 +61,7 @@ SMOTE Applied to Training Set Only
 Model Training & Evaluation
 ↓
 KMeans Clustering (K=3)
-`
+```
 ---
 
 ## Key Technical Decisions
@@ -148,7 +148,7 @@ All charts are in the `Outputs/` folder:
 
 ## Repository Structure
 
-`
+```
 cart-abandonment-prediction/
 ├── Dataset/
 │   ├── README.md              # Data source and access info
@@ -167,7 +167,7 @@ cart-abandonment-prediction/
 │   └── Report_Group44.pdf
 ├── Data_Mining_Project.ipynb
 └── README.md
-`
+```
 ---
 
 ## Tools & Technologies
