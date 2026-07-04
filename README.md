@@ -1,5 +1,5 @@
 # Predictive Analysis of Online Shopping Cart Abandonment
-### MSc Computing (Data Analytics) — Dublin City University | 2026
+### MSc Computing (Data Analytics) - Dublin City University | 2026
 
 ## Overview
 This study applies the CRISP-DM methodology to predict whether 
